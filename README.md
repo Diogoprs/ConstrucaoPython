@@ -1,1 +1,1 @@
-Projetos construido para linguem Python e suas Bibliotecas.
+Projetos construido com linguagem Python e suas Bibliotecas.
